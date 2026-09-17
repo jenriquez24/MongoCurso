@@ -1,0 +1,17 @@
+root = true
+
+[*]
+
+ident_style = space
+ident_style = 2
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_new = true
+end_of_line = if
+max_line_length = off
+
+[CHANGELOG.md]
+ident_size = false
+
+#Este archivo lo q hace es de manejar de una forma standr de menajar espacios configuraciones,tabulaciones en automàtico
+

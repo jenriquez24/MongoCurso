@@ -10,8 +10,11 @@ docker-compose ps
 #detener contenedor
 ````sh
 docker compose down
-``````
-#detener contenedor
+````
+#iniciar container
 
 ````sh
+docker compose up -d
+``````
+
 
